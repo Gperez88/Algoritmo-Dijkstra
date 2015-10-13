@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Arista">
+    <Position X="8" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAAgIAAAAAABAAAQAAAAAgAAADAAAAAAAAAAI=</HashCode>
+      <FileName>Arista.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vertice">
+    <Position X="4.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAEAKAgCAAgAAIAAAAAAAAAAAAAAAACgA=</HashCode>
+      <FileName>Vertice.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseGrafo&lt;V, A&gt;">
+    <Position X="1.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAIQAQAAQBABBAoAAAAEABQACAAQAABAAAQAQAIAAAA=</HashCode>
+      <FileName>BaseGrafo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calle">
+    <Position X="6" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Calle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Horario">
+    <Position X="11.25" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACIAAAAAAAAAAAAAAAAAAggAABIAAAAAAAAQAA=</HashCode>
+      <FileName>Horario.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interseccion">
+    <Position X="8.25" Y="5.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAQAAAQAAAQEAABAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Interseccion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MapaTransito">
+    <Position X="1.5" Y="6" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAkQAAAAAAABAAAQIQQABAAAAAAAjSEAAIAUCA=</HashCode>
+      <FileName>MapaTransito.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Etiqueta">
+    <Position X="12.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAAAAAAAAAABAAAAAAAARACAAEAAAAAAAACAAA=</HashCode>
+      <FileName>Etiqueta.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
