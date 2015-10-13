@@ -1,2 +1,2 @@
 # Algoritmo-Dijkstra
-proyecto estudiantil de estructura de datos (Grafo)
+proyecto estudiantil de estructura de datos (Grafos)
